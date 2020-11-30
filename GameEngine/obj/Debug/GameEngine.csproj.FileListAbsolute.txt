@@ -1,0 +1,17 @@
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\GameEngine.dll
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\GameEngine.pdb
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\obj\Debug\GameEngine.dll
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\obj\Debug\GameEngine.pdb
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\DBLayer.dll
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\EntityFramework.dll
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\DBLayer.pdb
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\DBLayer.dll.config
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\EntityFramework.xml
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\obj\Debug\GameEngine.csproj.CopyComplete
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\AutoMapper.dll
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\AutoMapper.xml
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a_gat\source\repos\HanoiTowerGame\GameEngine\bin\Debug\GameEngine.dll.config
