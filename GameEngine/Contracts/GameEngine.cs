@@ -3,7 +3,6 @@ using GameEngine.Entities;
 using GameEngine.Utilities;
 using System.Linq;
 using Newtonsoft.Json;
-using AutoMapper;
 
 namespace GameEngine.Contracts
 {
